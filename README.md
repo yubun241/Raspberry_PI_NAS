@@ -1,0 +1,2 @@
+# Raspberry_PI_NAS
+RaspBerryPiをNasとして活用する手順をまとめます。
